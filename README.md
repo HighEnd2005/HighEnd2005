@@ -18,7 +18,7 @@
         </ol>
     </nav>
 
-    <main>
+<main>
         <div>
             <h1>Anime Ranking</h1>
             <p>Top 5 anime of all time</p>
@@ -28,33 +28,29 @@
                         <img src="images/breaking_bad_ss4.jpg" alt="Breaking Bad Ss4" width="30%" height="30%">
                         <figcaption>Breaking Bad Ss4</figcaption>
                 </li>
-
                 <li>
                     <figure id="two">
                         <img src="images/breaking_bad_ss5.jpg" alt="Breaking Bad Ss5" width="30%" height="30%">
                         <figcaption>Breaking Bad Ss5</figcaption>
                 </li>
-
                 <li>
                     <figure id="three">
                         <img src="images/breaking_bad_ss2.jpg" alt="Breaking Bad Ss2" width="30%" height="30%">
                         <figcaption>Breaking Bad Ss2</figcaption>
                 </li>
-
                 <li>
                     <figure id="four">
                         <img src="images/breaking_bad_ss3.jpg" alt="Breaking Bad Ss3" width="30%" height="30%">
                         <figcaption>Breaking Bad Ss3</figcaption>
                 </li>
-
                 <li>
                     <figure id="five">
                         <img src="images/breaking_bad_ss1.jpg" alt="Breaking Bad Ss1" width="30%" height="30%">
                         <figcaption>Breaking Bad Ss1</figcaption>
                 </li>
             </ol>
-        </div>
-    </main>
+    </div>
+</main>
             
 
 </body>
