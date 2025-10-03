@@ -9,7 +9,7 @@
 <body>
     <nav>
         <ol>
-            <li><a href="#one">Top 1</a></li>
+            <li><a href="https://breakingbad.fandom.com/wiki/Season_1_(Breaking_Bad)">Top 1</a></li>
             <li><a href="#two">Top 2</a></li>
             <li><a href="#three">Top 3</a></li>
             <li><a href="#three">Top 3</a></li>
